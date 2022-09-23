@@ -1,0 +1,44 @@
+
+# Creating Icons
+
+---
+
+## Branch from master
+
+If you require a new icon then please branch the [main icon file](https://www.figma.com/file/NJvThtFQlqYDpJ1VXqiuL3/Icons) and work on your changes. The icon guides used in the example below can be found in the [guides pages of the icon file ](https://www.figma.com/file/NJvThtFQlqYDpJ1VXqiuL3/Icons?node-id=882%3A12)as components.
+
+When your component is ready for review please follow the checklist below and the Icon Checklist.
+
+## Creating Custom Icons
+
+Should you need to create a custom icon the template detailed below highlights how to use the guides to suit the shape of icon you are creating. 
+
+### Tall Box
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/df598b2e-38ae-484e-beeb-6180c87f6a73.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9kZjU5OGIyZS0zOGFlLTQ4NGUtYmVlYi02MTgwYzg3ZjZhNzMuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=nJ5qlJqqs3o1M8Hv79c3vAGyGg~lFVr0J2VDEfbDlXUduRGrLpm4UtOmZ1xPyNuOTDYu7Rua6P8LfhwzKhriL8c7JWQAYFDlavbheGC~pJsfKf7I1MmNmRphijTYz~w9b0xQ~qWOM05KSwtNsDp378HKqzgHiUZVuHlGT8AJSSKNr15~~QoLHcYW1I0tP-TppEDnGbdEmWzmQWE1Ma-EQ8qZrHFrNZ-PLmGsmTs9A4q-VYVtlMLD23RobIn9vYSTiJq2uZdGKtqksZMMii-lKX8paW-8xoa8EYAY3ButwMffeWISKCM-si5UuI3fqh6ser0DpHYmuNjvUcAEosiQ3w__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+Icons that are taller and narrower should use this box as a containing guideline.
+
+### Wide Box
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/42b5fa05-17a8-4762-87e2-96d8d77ffcbc.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC80MmI1ZmEwNS0xN2E4LTQ3NjItODdlMi05NmQ4ZDc3ZmZjYmMuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=A5mrLS3v6ai~YmT14ftJQZXlJgaD9Gt1jFfa0KUT00TCZ8S1-pDgsJ1q4Hgdg1L7IBMR85MhToN81YBNnZIaAd1zo58cWaYnKGNZzhz1k-nwkb6sb0GrBbX1ppLI-eBFPv30JNp81634F0MrA7Bd9hwyD6joKKBvP8o-A0fG~jyAaulqJpsVh6o1Z56VYKwJF7r5M0VwPoQdze5TDa7GpR90dVjFB6dU~jmiDpINobYd6l92hWn-ua8joJFDMTZGPwvvPsGRWNPqzQARKIwR0S-gQcmVr55hq3JEXmJlmbfInh2oiXq1uDYMt88D2Bmq-PewNi4VVd-42L5ZRmHfxA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+Landscape or wide icons should stay within the boundary of this box.
+
+## Square Box
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/5482ace3-031e-4a98-87d2-a705454b428c.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC81NDgyYWNlMy0wMzFlLTRhOTgtODdkMi1hNzA1NDU0YjQyOGMuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=coRMWBcyLsuE-GmLGk2sMyI554JMlj6JWmK8dc8zPVIz5jlKkQdAlUWOYzY7CW6w09JaFAFdQa2fWgcp4shILFo3v39EEjaRkegdB05Su9yBD7ZqqAqOWnvTPmXfrAmsH4hEwB7zI4u2LrUMD54mkOOWbLwHxOs-kigvI37ZhFDPtVYZiD6ixS214tGmg~w~t72Wfe1p~gaiNS~WviEbch99ISWhHzS5up-FhzJgqgu7DEME3e5MLOVqsZ88fusieqAhtk01CXhsch~bt5m0vPcoE1GF5qX5AiqE48TPmP2rOQNwwVMD~ooxWDY6RofnBdbWCxiaKchPKps3qzJzkg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+As the title suggests icons white are proportional in height and width should stay within this inner square.
+
+### Circle
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/4f15a940-b278-430e-ba25-64ffeb5d5dd3.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC80ZjE1YTk0MC1iMjc4LTQzMGUtYmEyNS02NGZmZWI1ZDVkZDMuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=Pgx1Zi8K9CeXQq~JyMG4lESLm-0HzGZB~DQiQVmRd9k6HSjkevZ-x-0AJ7Xqp0oEpcfMA4GJuvnvNC6bCVk560Xg0ex2-Z1EsKn0DZjINdG6runK2i~VqA80j94LQ25F3IWVTbyjTls4Gj7qHPncabcwQ~fL5rzTnK6GtihGoKPPJzkdrNZxfVnvURHX~TROW70Y~bJizewVmUhnQlK5CTFr67Fk1WTPFUT103RvdWciXa7CebvzOJKOsSHUVUYq9KY~gTpNKsKx8tXSrrqw7dKwmAtkjrUnfgnHyExISrALZFAxdGjZPpGfnyi1tWL~Xzp3suZiUiDnw2CREEM64w__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+Aside from circular icons this boundary is useful for icons that have curved outer edges. The circle is larger than the square box so that the icon has a larger surface area, and feels balanced sitting alongside other icons in the suite.
+
+### Diagonal
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/7a074a8c-3b17-4213-8c2e-d79fe2bed219.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83YTA3NGE4Yy0zYjE3LTQyMTMtOGMyZS1kNzlmZTJiZWQyMTkuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=GGggFbjmZvrcHaeYlJ72KoiTnr~OWBb174AblQXVAQ7kVnLcPiDzy-B4p5sRTH4MRO2gGNLGKLAnA5k~7NlxwiGqWfTqw~~U82fFs27CxWTBJbkp5jB0nUcYrVv1yj3yQHPExc2Apy3Piuuv7G7u89P~peomSpD4boKjxYFrN75rTrYr-iA1EU~0XrE7muyzw-YZmh-K~c3K-UMGxnrjijK1cKVZnEm1kWX-bxWnJMLmjBhl3StoAo6E0YrKZ-KTZqiu35qjiw6mBZdA3SSas~OaAVIP4DPDhmjGSpbKYgCeWePguoG4CNRYkfykQZM~OiF4I0qZohE3EpXfnRIwtw__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+Unlike the other guides these lines are not boundaries. They can be used as guides for intersections or strokes such as chevrons or arrows.

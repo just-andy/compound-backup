@@ -1,0 +1,90 @@
+
+# Alerts
+
+---
+
+# Alerts
+
+Alerts provide feedback to the user in a more stylised manner than a body copy. They are supported by an icon and encapsulated in a styled container to highlight tone and emphasis.
+
+## Key Points
+
+- There are four styles of alerts; information, warning, danger and success
+
+- Each alert has a default icon
+
+- Alerts messages should be concise but they can wrap over multiple lines
+
+- Sizes can be adjusted to suit but the line length of the message should be inline with our copy guidelines
+
+- Give a clear title to summarise the content
+
+- Alerts have the option to be include a dismissable button or up to two call to action (CTA) buttons
+
+## Usage
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/ad5ad16f-8f67-4abe-b92e-17ebdcf6a250.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9hZDVhZDE2Zi04ZjY3LTRhYmUtYjkyZS0xN2ViZGNmNmEyNTAuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=CQUIyDxbfiWZxfIi4u~wxrriamle6PJRV9OeOdyGlHCxnr2w9BCVOYi0hcdUR2TW4mKhuotrXXMKAYr8nQHqQdGIx4CNwdZ6a4j5XioEOwGlvzS91H8HSEWrye0gLLqGBcIYmxbyKePZan5VbJ6pK0QDSqDFe6aTfPc9~AnTtqzwHwfSiConPmbEQfUJY7jDB~Y0wtqQpHA-42oORrB5~mYuVhUPPXxbY9lvoz0wpigBt4s7Vf3Z4qy2IHXlFnciVvmjwFd6REULdDyXgydFycp2RavnRq~HMyjfBx0U5XZWWVt8NSOQC7j1SGjFGXFtd5dtodHb79uQjhocQpG4jA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+Alerts should be placed inline with other components but above the content they are trying to highlight.
+
+There should be spacing around the alert to show the context of the message in relation to other content, more details can be found in the [layout guidelines]().
+
+### Information
+
+Provide important or supporting information that a user may need to be aware of i.e. disclaimers, have a policy number to hand.
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/c5b03972-3928-4439-9391-934cd3b4914e.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9jNWIwMzk3Mi0zOTI4LTQ0MzktOTM5MS05MzRjZDNiNDkxNGUucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=PtWxSMMNIxmq~tcbxzVJyAA~TIVEAKnnGsnyVhcthdi3Hqzpm64q8RtQB4lMBbQLWo68vgGdk5pwj6i17sBWckxTxNZ0XWosm1-xxgUnnMif0kN7XbtvM09cY6UbiZOmI5sZrJxc1GDt~80hLvS~LS0Ym7ZSLcotciX1Fb56XZpF0MmN9rJsa9euuCURzJK5sJy6KiEPB8ZP7XGefNFCNaIWTk8MrzhIb3Y1bARdR-7nBCLgLhwQR8cq4edtzg1Gq-5hqwiIEMyAVxX8mnbALZJqb-kfnsttX-tSkjjgMy-KYUGk2-8-BD2YvpnJ5bfsXhwyFwHXxCDRQkD615l38A__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/934ef1b1-4541-4279-b387-f7691cf21c71.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC85MzRlZjFiMS00NTQxLTQyNzktYjM4Ny1mNzY5MWNmMjFjNzEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=R~lWJtY~kvsLoHLQt5E69PXvOdKykUKrZZYPg7oVDlAlbwUfWPWDETq2lBL9UOgz2mIztvSNgeU7GZhrkJKxuNHfIA49lYK2VoA5SEYlFw57NQOd9ydHfVsPBSi4M~P4gaOEw0I8e8RdKTkJnVUUJwHzQ~Djv1ndv7vBpxj1z1KPz0XTfEZdb-5N897ucsbaBeynG2FAds~epGrdndsSJMxe6yeoaDPGe9zjioCZ3A-B21wU-JbeO8jJ-Nfp~H9sHvsAir9fW71NC8CjQ42qG-5UtXsbPveyI~jHag21u1BI5vhbKmrgtaFwm~LIMUaVaJ~wuuCko-SDLdXfE2CfIA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+### *Warning*
+
+Use this to display information that needs attention or users need to take an action on.
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/d4a23a3d-9b1b-4ee7-a9cd-00c85c5c36ff.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9kNGEyM2EzZC05YjFiLTRlZTctYTljZC0wMGM4NWM1YzM2ZmYucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=EcrVMK0AqN5FG0p5577QRWNOm90QNB4xFOKNiGDDo~yoLSJHbrxWEX7LhwzBGUDXeoS5~vNaOmXCY9fFNYph2VeEtG4K4tasxxVArXDfaQIOYX181M5QnN6kkE2o3pgre~lzebjwU1p0bWvNrc4NSo0DXXv2SeoJcW49GK4ZGUzY1LdBG8mrjxAB0SmPHyLgQsJSfKVaDkw-d0eVlrNwk8wWg8pGmIT-DM24AHduOkpaOxb3jTzSzIIeCBjIOOuAh~V~WhsG-sY44Zhwiaiym~rE3KVDKbdvfy8XRUQPmnLlKfqrHnShEcG7J6UXnlXvBHecIJBmpLuJ1Uo2GsEZ4g__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+### *Danger*
+
+Use this when something critical has happened and the user has to resolve an issue immediately. For example when users cannot proceed further in a journey or they need to fix something.
+
+*Don’t use* danger alerts for information that the user doesn’t need to address immediately
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/bbd40eb7-d515-4a90-8f3c-2a3030b100e3.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9iYmQ0MGViNy1kNTE1LTRhOTAtOGYzYy0yYTMwMzBiMTAwZTMucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=VBbETWw~3LCvgZYZigx0S18Jd~T~RAjvwH9gcZqJ-EPHaKfz8ziVRlZGdvFkdgPPisqSPQhNSjUrDuQsYZ36MiBGgU8ppNyCWC6l5pGUh8KBtQZxwowJGblWaT5BZuYnC-GHUBpVDBwNvwFNRwF~efyQH9Vy2AU-~NwEyyYa~lhMDgipV07biOlp~5~hQwV6G5rC94an0Zt7V6-dTePehbKxVgufWk4YB2do4BIgLwpY4l6~nrPskWzDGHPf-gvuSeG1otjT54sJReRjyztloxkcGhXTry603BkOWyCvComPlvOP5Qb308UAH~RjsIDxiYLhjozW362A8ukqdZFEcA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+### *Success*
+
+Use this to let the users know that an action has happened successfully.
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/30068200-9712-46a4-b211-4665941a3863.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8zMDA2ODIwMC05NzEyLTQ2YTQtYjIxMS00NjY1OTQxYTM4NjMucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=mDH8DauEukhAFyaueOb4olfkr2kDVdhZ0Y0-tp6oYGxBI2obDtYvWD~xdeZ~G~KycEmaWXxDqnw4SUK~7v6w9QuhmbLSw2e06TMf6CUvMt7LtHDC2lpFqRPi-NhToPLgSNTT9ySvFhW~bVfScWIooQJO6WN~Tr3ZnXqTJEhGSzm3caM7vMrVxScUUCZ1gsApPnvSy-qvqM2smkFTkUbtckx5meZsDYLBUNjVc0IqzdVuLPnWAVxDsJoWqLjb8mJjFPV3NYU-xrbhVnu9hyCvLG86OtqmDVAqm4mH3WRhTUC~RXqCjmSU-fct-Nc8ryXzBogHBUDLCVos5Bl03fXx~g__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+## Behaviour
+
+Alerts are static areas of content and they are displayed either on load or after a process has completed. Therefore their behaviour is limited.
+
+Buttons to be added
+
+## Variants
+
+### Dismissal
+
+A small ‘x’ icon in the top right is used to dismiss the alert. Close button is optional and shouldn’t be included if the alert is critical for a user to read.
+
+### Buttons
+
+All alert styles have the option to include up to two CTA buttons.
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/3b99975d-6135-4a00-abea-42e05dbd672b.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8zYjk5OTc1ZC02MTM1LTRhMDAtYWJlYS00MmUwNWRiZDY3MmIuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=GBSMAGq6Z9lWPgy-ypXQIVc0DkazFF8VWkVLTsD4-rub4dyxAanYvaHC~u27yKEAAqTs6RI5jEQobrJFNMs3lLsaBfW8-ZaTpS-1ADMvimnAHSwiSdlNNUxoZt2caIdhLhlS3x8BZr-7c~sKzMhwf~r70LB4kC-Gb-iN7tiCdaqvYKNhacL9TJWbIMz7JYG9z~Idgtw-~zjHIt4KKGtXH5iQOvuY1BUnL8zeDqUPRzIa4G51UeXWxtMumA4Pxha~VRaGK0SesAAgv-5CDjgtiS88VDfH98DBarQXP5PeIt0GjJZhHP9bsi6PZeHO6Uv3WgmHqpzuWUGY~IFR0abLsQ__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/78f73f72-fc24-4eb1-a22c-f873e0d48df7.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83OGY3M2Y3Mi1mYzI0LTRlYjEtYTIyYy1mODczZTBkNDhkZjcuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=el36E3gNLHme4HGLMiZPpDkvQWOUHmRvLAH8pEPFd7IyjG1r5ADVbq1lNiVgMzjgi3uqkKJ2ho1MFJs28QnibuZ~uiLH9e3iFei46IXPriVlHButKIWsv6Sm6jcaX-eIq2VJX0uT65B4-10Ht-B2x~aovgxh--PeKtbZ9XHG32N4xbv8U17jBUg3JA77R32DD8zSUBcKh2Ca46LlU1BUibJCggNhi3MArudussibIGmug5pU5Xeu-aqcsisx8J-5IZAbw1quEfUaPUhG8XZPzLGesofE673iIuFqNWxsGyx46Wy1z-b4ZQJpn9z0qgpM9epQqXawbk1HVyti4YJ5mQ__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+![Img](https://studio-assets.supernova.io/design-systems/16150/76235d38-e4b4-4516-be87-92d9a34ad6f8.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83NjIzNWQzOC1lNGI0LTQ1MTYtYmU4Ny05MmQ5YTM0YWQ2ZjguanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=MSmXGyGZSUVPSxXmlP9qae2HETgUp2JtEn2glUi12c64EFX5HuugeyJkWAhjF837GOJTdEwy62afyyDHLODHeuuLXgIS8zNV44GzOuTl4kLtsawCogMxO3QStaZOuhlAJweptxm29l9V~23jZIlCy7jThEv~KlYDnz539LLvGxAAWkGP~JAV401rLVu5uFeA4Y8QJvHAU5U90LMomg1IaMLkmdurjAcROMrXU~Gjhh9sfLQSDbCpJq9mYetDacnCeDQvJfN9TsQOcOlktq-36EXLniP~RL9lin~P6WE6StJLoriqX~~TmdJbh4eCFze-rRf6GGbEMNkQgqbULHSbpg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+
+## File Links
+
+  
+[![Figma Component](https://studio-assets.supernova.io/design-systems/16150/43a8a113-5ab3-417b-8c82-e95f95d2518a.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC80M2E4YTExMy01YWIzLTQxN2ItOGM4Mi1lOTVmOTVkMjUxOGEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=c-gBvYZYTSgStaejqoBjKTYQA5Y6IxWtX5HKfxls~JOYXQ-uP77nmHjv~N65d60C3wSWoBMcfkGzZEN3msfUFrmT-S3wOj8tvlORi-yhdvAWb~ijO7wTOjPp4u-KmXdlPZzFDA-QNmO8ZBW1hv-ekQwDneRmwRJqvIS78uMp~znZIRgK3bqOATOgnchHEvvl9YHkzlhrrJUGczoxmCS5oEcYSezIOCEpiUpeRzG3ke0dmMD3R8QGNCP322DBbTClY77KudLFaQWkN0nAOieUEntnxbpe2c16q9p34q4VxIBOmtWDT9toSmB068Pie4iI1qW4iF6LdQNcS6mUcfQ8NQ__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)](https://www.figma.com/file/EXtua8So6GZtnkt8Zfmtom/Alerts)  
+Figma Component, Alert and alert slim components.  
+  
+[![Annotations](https://studio-assets.supernova.io/design-systems/16150/825a9738-eb6a-4da2-8500-828a44ddeae0.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC84MjVhOTczOC1lYjZhLTRkYTItODUwMC04MjhhNDRkZGVhZTAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=Gk7RUZNBwzs3i7-hRmoshfJeQ3lUi60ZwpQk8uIm-ST-QK16c2uObtIIEOFd8sIQrjgORPU1JPac8ABy74BDOi7iN~VSzaUAI0ukoWSqLgKWb7Ys1YBeP2DRfSgJa3Lz0aVGdCddbr02neY1EWUfYBCC0Q8P5WwXDDW~JFA9SRVcj3nxPMB5~Un~M-77HbAIgh~wbSjamVhv~R95D-ulEMJue5NjhVXVEQSocaxso8PEs5-DpfCYTuUJhEEVVd0WPauF5~xy04wADSIch-p3aujlVqi9L1D9XJ7ZC0HjZg0uXa2-ZWhwQUbDUATeUDREUi~XAdWKvlXF1VEuTF2dvg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)](https://www.figma.com/file/m9uaYzp21hRNxsaC0sDh4N/Alerts)  
+Annotations, Alert annotations and redlines.  
+  
