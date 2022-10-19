@@ -15,7 +15,7 @@ Written content is a key part of our interfaces, from marketing content through 
 
 ## Links Styles
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/7c166847-f5f5-4ecb-851e-90cc17f132bb.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83YzE2Njg0Ny1mNWY1LTRlY2ItODUxZS05MGNjMTdmMTMyYmIucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=R1HNNzX5d3OP~qH57zLgRB1y48uVtXPDQ8rDhEiQPJcLaAKV4AVsCL6vavKMEnAmrIFi09HCfkDtpEE00gl7pQXrhCfyOFlFkHoy1I4F6ppdUn2LiDf7JvHtQWvHKWDStIq4gYqhgnjhq4aaKENNVSlneniH81EL9t-VXnFZrM3QmUkTysDqaKNUdMCmJTW6fmac3Hem6wPCPS8vT0P8NqDIaIU2J4I1qsMLnutkDGbtZNd9SdAC1uLOQ1xM8EjXVfzvYyC0zx8Zt4JkMZtZb4JGkv6zv2s5~14Lsfad27qCZWrpBOaFtih2idDdNNerEx1Rr8WjuNQ6sMYdysEVWA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+![Img](https://studio-assets.supernova.io/design-systems/16150/7c166847-f5f5-4ecb-851e-90cc17f132bb.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83YzE2Njg0Ny1mNWY1LTRlY2ItODUxZS05MGNjMTdmMTMyYmIucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=gMyroq00Ka44cHNti3wuJ4L2JJ2aWC8-jaePraBFmKi0hU3PJja4Jvap7zNGd0B0sj-7Ank-j3BR4B9eivQ-xBRWahOICmBEPMdoHFFR-JHUQbtSaZLJ1W8AeAEx68UdZEicOr4kqZGFgY525Keo4hPynjIBRBjBv-A0JV82aOjRs2kbgMsiBZ4xTTshwykh4k0XMoyY~cX9yUMaxccOWutr2eKoejInvAmprd~9OKalzlvjDtGEBE09fqUTbae6S2gu288QiflqKqBNfkVs7BPOOd~zchKtCFx5PtnbIQOLT9eUoAgM5~wLVPDJdjp9xiq1P3JK6~8ZBLVR~GOHqA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
 
 On all style blocks the text is underlined, hover the colour changes based on the state. The focus outline will be located around the text element.
 
@@ -39,7 +39,7 @@ Truncation of content should be limited, instead *text should be allowed to wrap
 
 ### Line Length
 
-We should aim to keep line length to a *between of 80-100 characters per line for readability*. Context and type size will be factors in the value you select.
+We should aim to keep line length to around* 90 characters per line for readability*. Context and type size will be factors in the value you select.
 
 ### Web Type Scale
 

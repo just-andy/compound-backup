@@ -34,6 +34,10 @@ Files are the core of where the work is carried out and clearly labelling pages 
 
 Aside from Cover and Graveyard, you may have multiple pages of the same type.
 
+### Branches
+
+Every file within Figma can be branched to work away from the main file. Our branching documentation covers our strategy to using branches in our projects.
+
 ### *Project Team Files*
 
 - 📘 *Cover* - Cover file contains the project thumbnail.
@@ -44,13 +48,33 @@ Aside from Cover and Graveyard, you may have multiple pages of the same type.
 
 - 🚦 *In Review -* Displays that files are under review by stakeholders.
 
-- 📐 *Annotations -* Files specific for development reference. It’s good practice to include the Jira ticket name in the page title e.g. 📐 Jira-PG123 Annotations.
+- 📐 *Annotations -* Files specific for development reference. It’s good practice to include the Jira ticket name in the page title e.g. 📐 Jira-PG123 Annotations. We have further documentation available on creating annotation files.
 
 - 💾 *Published* - Designs that have been built and published to a live site/app.
 
 - 🔬 *Research* - Supporting notes and exploration can be contained here. [UserTesting](https://www.usertesting.com/) should be used as much as possible for capturing research.
 
 - ☠️ *Graveyard* - When files are no longer needed they can be moved to this page should they need to be referenced later.
+
+*Examples*
+
+The emojis should be used as prefixes to your pages as a visualy indicator for example
+
+- 🚀 Mailbox Redesign
+
+- 🕹 Mobile - New User Flow
+
+- 📐 JR123 - Dropdown User Story
+
+### Phases
+
+The above emojis will change based on the status of the development of a page over time. The page title may also adjust for additional clarity.  For example:
+
+- 🚀 Mailbox Redesign - Ideas
+
+- 🚦 Mailbox Redesign
+
+- 💾 Mailbox Redesign - Live
 
 ### *Component Files*
 
@@ -59,5 +83,13 @@ Aside from Cover and Graveyard, you may have multiple pages of the same type.
 - *Platform* - If a component differs per platform there should be a page per platform; Web, iOS and Android. No icon needed, this page should ALWAYS match the file name to reduce hierarchy in the asset naming.
 
 - *Test Suite* - Instances laid out to quickly test changes to master files
+
+## File Links
+
+  
+[![Starter Templates](https://studio-assets.supernova.io/design-systems/16150/717566cc-86ac-4fc5-b495-7f00da0548df.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83MTc1NjZjYy04NmFjLTRmYzUtYjQ5NS03ZjAwZGEwNTQ4ZGYucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=bs~cmma0owk1BKpf6GF3jipezHHJTxXKPMLXjTOMBgSfGd0owfamu1L2zhjyrcZxofNDM3ot~UrI2Llt-70nKIINj4n-pd3GwhRir2m1zr2fRI77T2g4tFlkv4Y3NrZj2WAnW8n4t4jHn-vO8kXa66oNA9dp-tZPAMAXVNPdPpCcZnRXAtyMBhe2oyh37CJBtebg1pOau-9Vwo9nC9ljqjSW7iMv~LAIE-1U5DaZvfQEpKZltJc46ldJfivM6gZZpiL9OJ8RUs~cpWX9JVGMgp3xX06LG-MmT8ptXJwbc8LqzsDPTUxLRIgZPYMUsV1kFgnGaPUpZdSEnKBjF3K4sw__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)](https://www.figma.com/file/jh72CSWkaoL08UvA8fcdiO/Web?node-id=0%3A1)  
+Starter Templates, Web, iOS and Android Starter templates  
+  
+
 
 - *Compositions -* Drag and drop layouts using the parent component

@@ -69,6 +69,21 @@ More examples: [Active v Passive Voice](https://www.grammarly.com/blog/active-vs
 
 - ALL ASSETS should have the final names in lower case and use a "-" instead of spaces and underscores.
 
+### Hiding Pages
+
+Whilst you work on pages you may want them to be hidden from published content.
+
+You can hide your page from being published using a "_" before the page name. You can also share the page to be by creating a preview url. 
+
+*https://compound.supernova-docs.io/compound/latest/<section>/<group>/<page>/<page>.html*
+
+Although it looks complicated the structure can be created by looking for a page in a section and just changing the last part. For Example to add a "Date Picker" to the Standard life components title the page *"_Date Picker"* in the adminstration area then copy another component url and change it to.
+
+*https://compound.supernova-docs.io/compound/latest/standard-life/foundations/components/date-picker.html*
+
+> Some extra info:  
+> This is a temporary workaround and will be replaces soon with the Supernova Draft Feature.
+
 ### Reviews and publishing
 
 Just like our Figma components all content should have a review from at least two other members of the team. Supernova has the ability to save draft content. Share the draft content with the two reviewers so that edits and feedback can be made.

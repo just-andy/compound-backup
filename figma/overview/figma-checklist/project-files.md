@@ -7,15 +7,15 @@
 
 ### General
 
-- Make sure that the Figma file has been set up following the [setup and structure ]()guidelines.
+- Make sure that the Figma file has been set up following the [setup and structure ]()guidelines
 
 - Unless specified are the designs following our [mobile first approach?]()
 
-- Make sure that Compound components are being used as much as possible, custom components should be limited.
+- Make sure that Compound components are being used as much as possible, custom components should be limited
 
-- Ensure styles and system colours have been used, custom values should only be for specific cases.
+- Ensure shared colours, effects and typography styles have been used, custom values should only be for specific cases
 
-- Check that components have been laid out following our 8px soft grid.
+- Check that components have been laid out following our [8px soft grid]()
 
 ### Cleanup
 

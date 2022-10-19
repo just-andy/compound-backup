@@ -19,10 +19,22 @@ Below are the range of breakpoints that we use across our designs. Our [grid Fig
 | Column 1 | Column 2 | Column 3 | Column 4 |  
 | --- | --- | --- | --- |  
 | Min Width | Max Width | Example Devices | Name |  
-| 0 | 575 | iPhone SE, iPhone 8, iPhone 13, 12 Pro Max, Google Pixel, Galaxy Note | Small (SM) |  
+| 0 | 575 | iPhone SE, iPhone 8, iPhone 13, 12 Pro Max, Google Pixel, Galaxy Note | Small (S) |  
 | 576 | 1023 |  Kindle Fire | Medium (M) |  
 | 1024 | 1279 | iPads Landscape/Small Desktop | Large (L) |  
 | 1280 | ~ | HD Laptops, iPad Pro 12”, 13” Macbook Pro | Extra Large (XL) |  
+
+
+### Figma Frame Sizes
+
+  
+| Column 1 | Column 2 |  
+| --- | --- |  
+| Breakpoint Size | Figma Frame Size (px) |  
+| Small (S) | 375 |  
+| Medium (M) | 768 |  
+| Large (L) | 1028 |  
+| Extra Large (XL) | 1440 |  
 
 
 > Please note:  
@@ -34,7 +46,7 @@ All of our designs should fit to an 8px soft grid, 4px can be used in components
 
 Our [grid component file](https://www.figma.com/file/QE34vuB1YzPjps85hIKANa/Web-Grid) contains optional layout grid styles that can applied to any frame, these are available as a layout grid style in Figma.
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/71be2e1e-daf9-45b2-94fd-cacf129e0356.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83MWJlMmUxZS1kYWY5LTQ1YjItOTRmZC1jYWNmMTI5ZTAzNTYucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=ZVQjDqXPWq5rENWwWLeltvgzlARWWLY7wc6Khdtmqn5zdqCs-C3rntCXm91P7V3CJisccT8vF5gn9PbR77JfWN8wakn0cqY519OBuZ8tF~D9Yz8fUTPZ8Hf~-b~Ll51JZUHlI-NNbSlt-z0AFhzry9uG1hL5Mb3F~EJUtmzeWa3KXqFEiYZCkDXDZq-c-ZoyyiYEaaA99edIc46Y~p6Ce6g~2Sn-8PUPF35WLDvuYLMZ1-LqgVn7z-F-FBL1arCKexmmLvuBrJqsZyEV~7UMf990GPQ6~MbA0bTY1qoMSqAv8u2PB9i7mXTVIvyc87Yf5vl2RBNG-uzDA5yRk83Weg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+![Img](https://studio-assets.supernova.io/design-systems/16150/71be2e1e-daf9-45b2-94fd-cacf129e0356.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83MWJlMmUxZS1kYWY5LTQ1YjItOTRmZC1jYWNmMTI5ZTAzNTYucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=R3KlKDERcDT0uhyva9XTiXh7AJMDtk7pX4jCeTiAoneaQOtCM~lwv4eqpRpxIyN21~NuL7o2ro562y6prh9-19MWV~RXyItOqVIq32x55o8XIEmKh3hJ~gAyRdN1lbY8F1tlC1p-3comWnMBJvuGmUIIJ6VEmVyoLEzkkYkN4lXerfbW9ftjQYTMAOVBm-KC7MmVR6EVGqXb8QolTVcIDV5oiZDRgEUKFWLzL~hgLHt2KKWog-oIeqBMie70zsMuw98hWuga9GhTwBd5XkdgFULiRASzcBs62dP14TvbJr6-rtADaldCZJTlMJ2-Djugp55YMAcT9RbiG0d5kuRnPw__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
 
 These layout styles are made up of the following columns, gutters and margins. All of the layouts should be center-aligned to the canvas.
 
@@ -55,7 +67,7 @@ These layout styles are made up of the following columns, gutters and margins. A
 
 ### Line-Height
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/351b7d20-872f-4bbd-b867-4dc4fba2feda.png?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8zNTFiN2QyMC04NzJmLTRiYmQtYjg2Ny00ZGM0ZmJhMmZlZGEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=RP9DQXSEdNs~h7ylCHA5NwgVIThKxOeAcSrMEPu1C0DMS97755I8xtBeL7ym40iFDzWxl94FWRaSR8CK3jbStFFysYwzcX9MB4paM6kYVB3P4AOIeHyxsDJ-dWqxcDgvXgTHTFUV4Let9KhiqilteTSqb72RMgpuevMLiesY769QA4xQ2EafyICuwe3fqelNA~l~lR5dw71YehLVar1P2h-BCwR4DxJRor7fjV8SFcObXFr9pF4cmis5wr~5CO17NRWu55oRyxaBuDyOhDTN~QSEne281bxw6-Jvr~U7j0Vwi05OoY4Se1fyyRZ1yu~Lu6jbNK6g9wSTOBfDrPn-pg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+![Img](https://studio-assets.supernova.io/design-systems/16150/351b7d20-872f-4bbd-b867-4dc4fba2feda.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8zNTFiN2QyMC04NzJmLTRiYmQtYjg2Ny00ZGM0ZmJhMmZlZGEucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=alwXymdO3QGNxt2XSoxKpzwfTeAJ5StSkBIZ97JMSpzGIh4S5p7gxaNk5wmr1u-sUGWL735-gxkC8jbtC7mj1GgOxzWk0r882Lc2nSxZYHQSQUqy~3t0UvLuazyEVe-lBQOCGIPEuj~KBf5xrq2zq4cLaTOyQoiBRvnbod3AlUl8FNPkmMrS~3gyXS~-K4NlgnHLvC~Oq-UuUnaqQTWTnUuG-wSVs89Sbo4ZguH2H8bA4DdnrdEUAY9ZJlz2ofNMMng4fapHChAqOfJ6LFeIesheQ-5QnKch70Eq-9KkeVYsNPhNjtqrrxTDSzSJLBJObqMJE4oFL7gixOT~UV37Yw__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
 
 It’s a soft grid, so there are no absolute rules, but a good rhythm based on an 8px grid will look something like:
 

@@ -7,7 +7,11 @@
 
 - Before a review make sure that the version has used the correct 🚦 status indicator.
 
-- Make sure that the component file has been set up following the [setup and structure](https://www.notion.so/Setup-Structure-6100e77469de47638d91056beced11cf) guidelines.
+- Make sure all layers, component properties, component properties etc. are title cased "Small Screen"
+
+- Make sure that the component file has been set up following the [setup and structure](https://www.notion.so/Setup-Structure-6100e77469de47638d91056beced11cf) guidelines
+
+- Be consistent with breakpoint size naming; small, medium, large and extra large
 
 - Check that the [guides for building a component](https://www.notion.so/Building-Library-Component-bc3125df94374a9189b28a5d565c1248) have been followed.
 
@@ -72,4 +76,4 @@ Don’t Use - Interface/Card Light.
 
 - 24px between components inside a variant.
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/188bf226-0bc3-425f-8b22-98aa0b675330.jpg?Expires=1977609600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8xODhiZjIyNi0wYmMzLTQyNWYtOGIyMi05OGFhMGI2NzUzMzAuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTc3NjA5NjAwfX19XX0_&Signature=bFzlICohUGBwuCyhmf6odeL60IKKWgstFogUexGi7nNR8Xc~~7FyrVeHA0CkZ35jqhze4q~djuWY3-TYj8sg1U8tAHzePmO72f65yEDt80i5czKNaAXEgR4-JMGtX2Klw4T8k6RLtfqujX-15DTb2WVoGwOZi24Xkis9D9~KCpoXsCaWw-AcsjnwTgKTgbaaWMoMhEk~hhwyhkeUC2XEaZIwyPH57BjsBVHYaFMDqdPp27j3x91VCo1WwvW1K57MhgKCMyXskLn0z9JHZ5m18Lj8q~U~xRaM4nOCKgHiUTVGQL5t5vnypMcpDoVBOVdLIymq3lml4DsgPi4mJ29o7g__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+![Img](https://studio-assets.supernova.io/design-systems/16150/188bf226-0bc3-425f-8b22-98aa0b675330.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8xODhiZjIyNi0wYmMzLTQyNWYtOGIyMi05OGFhMGI2NzUzMzAuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=h1YdpdQF3IPfegqgWsNdcIRxMjx0fVtSRRgnaoZ0G9nZ2EVY6GPWcj1fl91wuH7g-kTsrtlCMA8Q8fYUMNPk6nzlpPh~AB8dRiKNsNuLTvS2AA6Pz-1JIIUTtba2gD85J4awPwCWWKcBmuZZSlDRcak9o6nofrPxIPq2BFxoBtjblv5QEJPzy-h52Jo9UCkM1Elc91qVH0~f8LHWf8349tE9ImPAHt5iuhaDrQwrqw7jMyAVsfuC5rF1t9jnviMmKItbXU7D9wpDji~57pXgLxtyckLMZl4RXFJC0yiEdNQxwWDAFOiriKg4aYiTFxCJdoI-l~JmQNnMgzZ-ISlquw__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
