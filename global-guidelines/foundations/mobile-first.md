@@ -5,27 +5,31 @@ We design from small screen sizes outwards.
 
 ---
 
-## Overview
-
-Smartphone usage in the UK has increased exponentially across all ages groups in the last ten years. No more so than in the 55-64 and 65+ age range where usage has increased from 9% in 2012 for 55-64 and 3% for 65+ to an incredible 87% 2020 for 55-64 and 65% for 65+. This will only have increased more since then. In fact, many adults now only access the web on their mobile device with no access to larger screen devices.
-
-## In practice?
-
-What does this mean for us in practice? That it’s more important than ever to maintain a mobile first focus on the design of our customer experiences. Scaling up experiences is often much easier than the ruthless focus that’s required to create a simple, elegant experience that meets our customers needs.
-
 ## Guidelines
 
-When approaching *any* piece of work, unless there’s a very specific reason for it to be targeting larger screens (e.g. a piece of work for the iPad) then it should be created using a mobile viewport. Specially for us this is usually the size of the smallest (width wise) active iOS device. Right now that’s an *iPhone 13 Mini at a resolution of 375x812px*.
+*When approaching any piece of work*, unless there’s a very specific reason for it to be targeting larger screens (e.g. a piece of work for the iPad), it should be created using a mobile viewport. Specially for us this is usually the size of the smallest (width wise) active iOS device.
+
+As of 2022, the smallest (width size) resolution that our team will be working for will be 375x812px.
 
 [Screensiz.es](https://www.screensizes.app/?compare=iphone) is a great resource for all resolution requirements. Once we have received a level of agreement on the work we can then start to look at fleshing out the larger screen variants but the priority should always be on mobile. This not only helps with a focus on the flows and experience but on clear and concise copy.
 
-## Platforms
+## Why?
 
-With there being so many platforms out there it can sometimes be confusing where to start, especially if you’re designing across many. Given our relative focus we would suggest starting on iOS and using that as a template for Mobile Web, Android, and then onto larger screens like iPad which can in turn influence Large Screen Web.
+Smartphone usage in the UK has increased exponentially across all ages groups in the last ten years. No more so than in the 55-64 and 65+ age range where usage has increased from 9% in 2012 for 55-64 and 3% for 65+ to an incredible 87% 2020 for 55-64 and 65% for 65+. This will only have increased more since then. In fact, many adults now only access the web on their mobile device with no access to larger screen devices.
 
-## Content First
+## What does it mean for us?
+
+That it’s more important than ever to maintain a mobile-first focus on the design of our customer experiences. Scaling up experiences is often much easier than the ruthless focus that’s required to create a simple, elegant experience that meets our customer's needs.
+
+### Platform Order
+
+With there being so many platforms out there it can sometimes be confusing where to start, especially if you’re designing across many. Given our relative focus *we would suggest starting on iOS and using that as a template for Mobile Web, Android, and then onto larger screens like iPad which can in turn influence the large screen web*.
+
+### Content First
 
 Providing the optimal content to the user on each screen is key to a great user experience. Identify and prioritise the users primary goals, then provide secondary or tertiary needs as the user progresses down the screen.
+
+Content is such a key deal-breaker  in the mobile experience, starting with a mobile-first approach will help manage stakeholder and copywriters expectations and requests.
 
 ### Identify the users goals
 

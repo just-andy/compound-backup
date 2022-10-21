@@ -21,7 +21,10 @@ Buttons are used to trigger an action in the interface. We provide a number of s
 
 - The standard space between buttons is 16px, horizontally or vertically. For combinations of buttons refer to to the [button groups]() examples
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/f0303032-be64-403a-bc77-e33e97cf7346.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9mMDMwMzAzMi1iZTY0LTQwM2EtYmM3Ny1lMzNlOTdjZjczNDYuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=Zg9BUuOoniXu6QFPeeSC8JfqAw2OiRd~HmwgQNevg9zd7STlQGQSO4KwLVX95VSVHqBOg3F-7DWI6uVzu6VKxhrb476xPTlDU7U8adO0NLLNBtoEVP5JOl49evaRp6D6Pybc0WZsuaKx4WHG4paOMmxu7AcPMNSDlAllbszIUKfKQm8HC0fl7rFrzTvfdvr-Y9gactCuRKX6SP4ckw~cFkB5ENF9O5-WiI7kiRImbsIKIO4RXiDKKNa79hAXMkODXLukv5Lm~YvLM6VXloPVI-7fwguDkT-eVKuFM9Xwobyk-uIMxZOku~dmMK~4nrUYb1dLR9HD~-HC2sjiJ1FGJA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+  
+![Button Spacing Examples](https://studio-assets.supernova.io/design-systems/16150/461a0279-be9b-447b-b2b3-dc46e011b8fb.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC80NjFhMDI3OS1iZTliLTQ0N2ItYjJiMy1kYzQ2ZTAxMWI4ZmIucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=Jf~ZtO97rD7Bplimp5gaJItLgnDyvQC2WiJPaS4J-Z5gI9sr6oHbXaLDmHTbrqdfJClTiLiwFowKYN8cWgKs4L~KlDt4U5-GQI452ug5sD~aDopQoBnsfiHcOE0gI5x9~8tPEPK7yKevUBWVjEQ7yBtHWp-2iB5Rryj3e2bokxnPPvJgmV15fwkcjI30EqSBmDElJtLhkE6G2NVM82L1NfiJxFWAs7-YIFYAbA-KTqOT7alTV9tPIeB8saVdmEs9tBt-BaQBwDnJQnFETDtpl1HmKcG6AhcsxkED2ck681vr0xvhrWuGhYEERvNzekVANe6UNCCHxSjnUxcostsySA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)  
+Button Spacing Examples  
+
 
 - The disabled states of buttons should only be used as a last resort. Aim to reduce cognitive load for the user by displaying buttons when an action is available
 

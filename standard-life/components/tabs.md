@@ -7,15 +7,15 @@ Tabs are used to group related content in the same area of a single page
 
 ## Key Points
 
-- Tabs are available in two styles and each style scales across three sizes
+- Tabs are a navigation elements that allow users to easily access different areas of an application or different parts of an individual page
+
+- In Compound, tabs are available in two styles, and each style scales across three sizes and in [light and inverted themes]()
 
 - Tab labels should be short, ideally one word
 
-- Tabs are available light and inverted
-
 - Top border tabs are best suited when all tabs can be displayed on the screen
 
-- Bottom border tabs are ideal when there are more tabs that the viewport can accomodate
+- Bottom border tabs are ideal when there are more tabs that the viewport can accommodate
 
 ## Usage
 
@@ -23,15 +23,21 @@ Tabs should be used to display related content within the same area in the page 
 
 ### Top Border
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/79b2ec38-efbd-4d62-ab90-7fcdcf256ba6.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83OWIyZWMzOC1lZmJkLTRkNjItYWI5MC03ZmNkY2YyNTZiYTYuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=D5jiYrRfetSY14hNECbnJJByW4N7Lpo4WE2ix6bYBvvVgi~mcU9V0YQIGJyIAqGjyo2xKabI4gKKA-kHfzdv50VM-MCCAX0EnJsVPsjSAJRFf5CcVi1a3x0gYeNat0UHOmjzPT~OoEZKq7dzziCNSruG93qUHacArbKE~QD0Y7pT-ssw7cOB~K-yBthrcsquxfGLt5Mv-Y26cahxOQ6KC0IZEX5eQdg~3oJmCXcf2NzdAFB-erbbC6FziEJUBjSwob3k1GunSqZgXjQgvZvSHRhsbRCCx35o82XZWp5F~ZbDiwxTFhhuu4yf40oVyTMHDr9QOzTeIVoTeqb3J6qiew__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+  
+![Top Border Tabs](https://studio-assets.supernova.io/design-systems/16150/1ebbef83-198e-486b-90e1-2cf7f21466b6.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8xZWJiZWY4My0xOThlLTQ4NmItOTBlMS0yY2Y3ZjIxNDY2YjYucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=XYCqxDPy8cyzv5N4LkkHpno7sr3xpy0g5TZ4FI~GEL537X2sp1rU794VMjrQktSE4YpZVlITlyofER~as-iPovD19G4SDANFQhNy1YZcUKzsaPfxOJes8sx9afSME5Y86Vr3Vx50sPY6KasPd1c885QQnflawI0dqtihGair-B~L2eSd8ZvvrfK8n5Z11kJ0HfRI2zGchE6Z54oTPaPN7T2-JOelfiORokPkUAQ1QPm6kXiRGyo65j9~vDueh~WtYBf3-018xorRlutQl8XiO7Viis3P8VGktE1eWsBs1H0Cs1e5mfAR2CD5I07ooPCSpUZaxsv5Ix0kuBVQJjQi~Q__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)  
+Top Border Tabs  
+
 
 Tabs with a top border have a style more suited to situations where all tabs will be visible on the user's screen. Because of their skeuomorphic design which replicated a paper folder, they are best to be always visible. The bottom divider is removed on the active tab to show the link between the content and tab, like a paper folder.
 
 ### Bottom Border
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/4dcd2117-e62e-49a3-881f-9ea539b86589.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC80ZGNkMjExNy1lNjJlLTQ5YTMtODgxZi05ZWE1MzliODY1ODkuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=YphwMvqylGANFzoUT42U3Edgox1x7zdzXlZFe3SBgrdbBoo9RUqv10rhxuVMlnNigkiIz2p17hbeV0t7BBva~kIXuL7sk8jGOmx3n~QuZWB7w6R4AGQm4aVTkgsijo3ely8iOIUqZ5HDPejme2fuPkXjnSdc7hmkKso~mmQd8OMSlBQJW-GrTWBM0WpE~y5uneSqWtR4RHZcAgd1z9e-4bIQ61y2IDBnl6DPYsG6986PwB-fbj~mDeEIpXG0~Ocj85vx~xPY4U8aHqaV2AfIRuqNcKKKQYKCzgSm2S4zNXH3w9GT-o36j~leA5lh9QglmqMQ2LIYFrjwEWZR5cf1jw__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+  
+![Top Bottom Tabs](https://studio-assets.supernova.io/design-systems/16150/a019e04a-843d-4cb7-b3bd-a77784e67dc0.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9hMDE5ZTA0YS04NDNkLTRjYjctYjNiZC1hNzc3ODRlNjdkYzAucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=XuHteGzardA~WqBzJzPz3w765giqwZcqKB4aGgj6p~gD~qE9-TudPgLRZYcdVughQcpzNLe0eEOM8K4gs2Xt4f-vc-JfXTK3zsNdeYibq0qaOyCxfMkSpj~0ERS4FYxpOZ~h2rNjSU9cVzMrHHUimhaNT2DZlghOoUQsNVFMCd7SxBlPXQPfQJP-i~8CLZ06YvQ-RF6gz--nZsQ8a0k1lFcQpa3zvWleRpcpVuczc-btF0I1Ny8wQDAoj~vXVaKEvuhSF5d04S~FbowVK2WIo00vSyiAT3lwIEA5LVzL4-EJIVJptBBLsQy~Ea7wyK3bv1yvIxKfWLYkqH5hMsKyHA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)  
+Top Bottom Tabs  
 
-This style is suited to situation where the number of tabs or their labels will exceed the available viewport space. The container around these tabs displays a fade indicating there is more content off the viewport that can be navigated too.
+
+This style is suited to situations where the number of tabs or their labels will exceed the available viewport space. The container around these tabs displays a fade indicating there is more content off the viewport that can be navigated too.
 
 *Note:* Scrolling should be a fallback for edge cases. Content should focus on displaying as many navigational tabs as possible.
 

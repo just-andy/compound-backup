@@ -7,29 +7,31 @@ Clear annotations can assist developers and testers to ensure that proposed desi
 
 ## Overview
 
-Annotations should aim not to be overloaded, but finding the right balance between required information and possible extreme cases.
+Annotations are extra information that helps designers, developers and other stakeholders to better understand the design and its components.
+
+Annotations should aim not to find the right balance between required information and possible extreme cases without overloading the readers with unnecessary information.
 
 ## Document Structures
 
-When working with the same development team on multiple handovers it makes sense to stick to a structured format. Overtime this consistency will build up between design and development of what to prepare and expect. Each time this structure can be refined to create the previously managed balance.
+When working with the same development team on multiple handovers it makes sense to stick to a structured format. Over time this consistency will build up between design and development of what to prepare and expect. Each time this structure can be refined to create the previously managed balance.
 
-Before setting out the annotations, you should workout what you are trying to convey and how concisely can you do this. A few questions to ask yourself:
+Before setting out the annotations, you should work out what you are trying to convey and how concisely you can do this. A few questions to ask yourself:
 
 - How many variations are there in my designs, this could be screens or component variants?
 
-- Is there overlaps to other projects that you should use as examples e.g. component variants or similar flows?
+- Are there overlaps to other projects that you should use as examples e.g. component variants or similar flows?
 
 - Does anything change based on the device or viewport size?
 
-- Are there edge cases that should be highlighted?
+- Are there any edge cases that should be highlighted?
 
-- Are any styles different to our current design system of branding?
+- Are there any styles different to our current design system of branding?
 
-- Am I using new components, branding or content that will be new to the development team?
+- Are we using new components, branding or content that will be new to the development team?
 
 ## Example Documentation Template
 
-More questions will crop up as you work through this but below is a possible annotation template, or use our [Figma Annotation Template](https://www.figma.com/file/gVowzcxDdtbCdRCP7gE1JJ/Annotation-Template):
+Our [Figma Annotation Template](https://www.figma.com/file/gVowzcxDdtbCdRCP7gE1JJ/Annotation-Template) covers most of the common questions:
 
 1. *Overview* - Give an overview of what you are creating; either the top flow or component variations.
 
@@ -59,20 +61,20 @@ Creating annotations in a project file should be within their own page, usually 
 
 ### Component Annotations
 
-These should be created inside the design system project e.g. “Standard Life Compound” in the specific annotation project. Each project should have it’s own annotation file that is named the same as the component to be or built.
+These should be created inside the design system project e.g. “Standard Life Compound” in the specific annotation project. Each project should have its own annotation file that is named the same as the component to be or built.
 
 If the component does not exist create a new file, you can [duplicate the template file](https://www.figma.com/file/gVowzcxDdtbCdRCP7gE1JJ/Annotation-Template). If this is an update then create a new branch. The branch will be merged when the built component is released.
 
 ## Reviewing Annotations
 
-When you think the annotation documents are ready it is a good idea to take a step back.
+When you think the annotation documents are ready it is a good idea to:
 
 - Ask another member of your product or design team to read through it. Could they understand what to build with what is provided?
 
-- If you are annotating a component start draughting out the components documents, writing things down may throw up a scenario you forgot.
+- tsart draughting documentation. writing things down may throw up a scenario you forgot  to include
 
 - Are there parts of the document that you repeated yourself? Explaining the same thing twice can add confusion, try and cut it back to once.
 
-- When laying out redlines for dimensions etc make sure there is enough whitespace around the element so it clear what you are indicating.
+- When laying out redlines for dimensions etc make sure there is enough whitespace around the element so it is clear what you are indicating.
 
-- Use design tokens for styles alongside any style values e.g. “BP90/#147CB3”, this will avoid confusion as the colours used.
+- Use design tokens for styles alongside any style values e.g. “BP90/#147CB3”, this will avoid confusion as to the colours used.

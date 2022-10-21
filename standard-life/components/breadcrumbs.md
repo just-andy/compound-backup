@@ -10,21 +10,22 @@ Breadcrumbs are navigational components that display to the user their place in 
 
 ## Key Points
 
-- Breadcrumbs should always demonstrate the hierarchy of the application to the user
+- Breadcrumbs are mainly used as navigational and orientation aid that allows the user to understand the structure and hierarchy of websites and applications
 
 - The current page should be displayed as the last item in the breadcrumb or as a clear page heading below.
-
-- The home button should ways be present so the user has a point to return back to
 
 - The current page should always be shown in the breadcrumb or page title
 
 - The home link is represented by a home icon button
 
+- Breadcrumbs should sit above the page title when they are used.
+
 ## Usage
 
-Breadcrumbs should sit above the page title when they are used. The purpose is to display the page hierarchy and provide links to the user for each level of that hierarchy.
+  
+![Standard Breadcrumb Example](https://studio-assets.supernova.io/design-systems/16150/02a159cb-6e97-4989-bed6-683ec6d1d584.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8wMmExNTljYi02ZTk3LTQ5ODktYmVkNi02ODNlYzZkMWQ1ODQucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=LDEASWjsJC5fD0vZ83ujLBfkE9xYDh1YDOVJLmTZCCdCM96ufUb5P0j5aw4haDt4AC~SAvKVB7Z5phvEGQzNhIzcbvgXe~mhowHvHq5uYBb0Hlrh2JcTgkbVzJShkwwDrCfiW11iokMcRPUfxcRfxZrQqIemuLxPr2Q4u6zMgmz83LfroiJ5j-oogvdvfatr3boVYqpS9C5ikYnwoY~1h9adVqWmG55FWa5RryO6CoMJHpav7zhtU01q92YmKPNOmxKWC6cvZMgsEY5WJIzoxB5Xa5APZ1HqEx4XMxHGkODMe~Ie44jDMMk7CDjSpEQX9xUmI888LqiC6tZKAtZRYg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)  
+Standard Breadcrumb Example  
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/a6bb0e02-ac3d-4e62-a746-ef9f598c07ee.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9hNmJiMGUwMi1hYzNkLTRlNjItYTc0Ni1lZjlmNTk4YzA3ZWUuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=JtNkCclX1~rJz1NQg80wW7eBQc9gIKdXOaAByrGQddFZcKkM3O6pBY7jbR7L2WKwEpxX9ct6SSgGy6xE~8GNjgtRyPWgeO6dQKI6mPd6Hx615KeJNR0WwKjFhSTeda4ksnvyRl-H-~mGa9tSqTdUg~acJOa5D1piB8m3iDL0NwO9RxbJm34LU3~jUkPcTccDdnDZeIa6JFz7yd1wUwAxMOsVIGa-kfUNjjnw6Bslw830lY15xi~ByEMLfEr~014GZMRR7RvoGQIPxIFWV~TB4WZ~5pcHI8EahtdQGYlmd4qabTocZpKnujzjW5VJVHGMOMewtxFHFuubyC-~KeAnXA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
 
 So the user is aware the the current page should be shown either as:
 
@@ -32,13 +33,28 @@ So the user is aware the the current page should be shown either as:
 
 - the page title. 
 
+### Structure
+
+The usual structure of breadcrumbs must include:
+
+- Last item should always be the current page
+
+- First item should always be the homepage with a link to return to it. It will be represented by a home icon
+
+- Middle pages should be linked to the corresponding pages
+
+Middle pages can be shortened to a truncated link if there is not enough space. We strongly recommend at least showing the immediately higher level to the current page
+
 ### Hierarchy
 
 The breadcrumb hierarchy should always show the user where they are in the journey. Starting from the home icon and then displaying a text link for each level in the hierarchy.
 
 ### Truncation
 
-![Img](https://studio-assets.supernova.io/design-systems/16150/b524f88c-611d-4051-ab9d-66d448f109a7.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC9iNTI0Zjg4Yy02MTFkLTQwNTEtYWI5ZC02NmQ0NDhmMTA5YTcuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=cRHwdZ9Kqqj3gQtJ7bcey~exzgAcocso6sfWsFT3CvAVXtQ1PgEhr3kH~08tXek0LMmJL9aI6s~XNch5T1sI3Wa4tfuJCHOIvhXfhu4nGkhjQ2P7HOgNzMGRvpC-qCnGGK6lKAxJEzGdhxgCHpV6YDNu36JUsDtNYjrrkBDtcENI6VYoBSOjFMpGkRT8yE83dGpJw9paC5H6XEaLynxycMpDPawpojF2IawSMSWlxqmzXQSSgpmU3u2q6UMb3OPEU0p3es91R8II2S0MX3qXWa7ZaXRA1jLTlBa1~aHcVQR0taZ34JGAGWL3tJKXrKXAJv1L2Q6sn7e1OoXyWVjlCg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
+  
+![Truncation Example](https://studio-assets.supernova.io/design-systems/16150/56d1a7d6-bef7-4509-b8f0-74fd3725f25b.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC81NmQxYTdkNi1iZWY3LTQ1MDktYjhmMC03NGZkMzcyNWYyNWIucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=EZSrVwYnU0Q9y7a3iiQiSkFp-kLsIc0yzrOTly17RTDHzu~g0GtJhVCx8R9U~-3KY4-YTeUNj6TYeunFp8~0fwkG361dQTu7TWYmGIIuP3NtWI9jsSPUhTp0FFPeBMXBce9pRKwcqVUBVG1vRHyrwdnHSq8Wxm~w~pxqFBpc-0uxv9a~QLNpia9iCBnlakeqlcbSKU5f5pD7k-r-ygDqPAi8GzMYFEUXXz8xAEOg5nhYt4I7T3JUNJc5OE41VGjEH7ptCUCnHwE-gQrPIzy4hbYQVHLu4YV0GIBQWEhcXGO3piOcjPEkKQ6Iri~8Yc0EV~Ultwel~LVzisZW2A5I3Q__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)  
+Truncation Example  
+
 
 When a text link is longer than 12 characters it should be truncated, allowing more of the breadcrumb to be displayed to the user. The full label should be available as a `title` tag so that it can be displayed to the user on hover or via a screen reader.
 

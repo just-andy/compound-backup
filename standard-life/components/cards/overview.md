@@ -29,11 +29,13 @@ If you are unable to find a composed card that meets your use case you can creat
 
 Whilst the Card BG component provide the consistent outer styling the content within the card should follow a consistent structure.
 
-### Padding
+### Padding & Spacing
 
-The inner padding should always be 16px, with the exception of images which will likely touch three edges. This inner padding is the same across all breakpoints.
+The inner padding should always be 16px, with the exception of images which will likely touch three edges. 
 
-Inner padding does not increase as cards overall width increases
+This inner padding is the same across all breakpoints, it does not increase as the cards overall width increases.
+
+The spacing between cards is at the designers discretion but should follow our [8px soft grid]().
 
 ### Typography
 
@@ -69,9 +71,9 @@ The whole card container should be clickable on these types of cards.
 
 ## Building Custom Cards in Figma
 
-Cards are a unique component in our Figma set-up as they have a number of our common patterns but also a component which is designed to be detached as a starting point for customisation. 
+Cards are a unique component in our Figma set-up as they have a number of our common patterns but are also a component that is designed to be detached as a starting point for customisation. 
 
-Cards are an [exception](https://compound.supernova-docs.io/compound/latest/figma/overview/are-you-detaching.html#cards) to our [detaching guidelines]() as there are too many variations to create as composed components. The [Card BG component](https://www.figma.com/file/ZisCHpJgiaJakbX1SJScvf/Cards?node-id=239%3A3196) serves as a quick way to get the common card styles and build on top of it.
+Cards are an exception to our [detaching guidelines]() as there are too many variations to create as composed components. The [Card BG component](https://www.figma.com/file/ZisCHpJgiaJakbX1SJScvf/Cards?node-id=239%3A3196) serves as a quick way to get the common card styles and build on top of it.
 
 ## Cards and Backgrounds
 

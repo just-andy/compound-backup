@@ -5,17 +5,23 @@
 
 ## Overview
 
-Across our platforms we use a mixture of photography and branded illustrations. These are nested in a number of components from graphics to cards.
+Across our platforms we use a mixture of photography, pictograms, icons and branded illustrations. These are nested in a number of components from graphics to cards.
 
 ## Media Libraries
 
 Our latest media libraries are located in two separate locations:
 
-- Brand Illustrations are in the [Figma Library File](https://www.figma.com/file/rAA7b2O8KpzzcvWCfu2B2Y/Brand-Illustrations).
+- [Brand Illustrations](https://www.figma.com/file/rAA7b2O8KpzzcvWCfu2B2Y/Brand-Illustrations) are in the Figma file*
 
-- Photography files are located in a shared drive. 
+- [Iconography](https://www.figma.com/file/NJvThtFQlqYDpJ1VXqiuL3/Icons) are in a Figma file
 
-If you are do not have access to either of these libraries please contact a member of the design team.
+- [Pictograms](https://www.figma.com/file/HnsxINkTg2SpOr2Yswsqg3/Pictograms) are in a Figma file*
+
+- Photography files are located in a shared drive
+
+If you do not have access to either of these libraries please contact a member of the design team.
+
+_* Not all images are included in these drive, so check with the team if there are specific needs for more**_
 
 ## Responsive Compositions
 
@@ -35,9 +41,9 @@ Images are supplied at the following dimensions.
 
 When supplying images for each breakpoint the images should use the following guidelines.
 
-- Make sure that the focus of the composition will always be in view for each cropped size. Remember viewports can vary within a breakpoint range.
+- Make sure that the focus of the composition will always be in view for each cropped size. Remember viewports can vary within a breakpoint range
 
-- Name files consistently but add the breakpoint size as a prefix e.g. “filename-example-large.jpg”.
+- Name files consistently but add the breakpoint size as a prefix e.g. “filename-example-large.jpg”
 
 ### Composition and Aspect Ratio
 
@@ -49,11 +55,15 @@ When supplying images to the developers it is best practice to:
 
 - Replace spaces with “-”
 
-- Make sure file names are concise and named consistently.
+- Make sure file names are concise and named consistently
 
-- If possible, named in relation the content. This acts as a fallback for some accessibility tool if an alt tag does not exist.
+- If possible, name the content. This acts as a fallback for accessibility tools if an alt tag does not exist
 
-- Images are outputted at as small a file size as possible. You can use the [TinyImage Compressor plugin](https://www.figma.com/community/plugin/789009980664807964/TinyImage-Compressor) for extra control.
+- Images are outputted at as small a file size as possible. You can use the [TinyImage Compressor plugin](https://www.figma.com/community/plugin/789009980664807964/TinyImage-Compressor) for extra control
+
+- Resize components to specific sizes or ratios if requested
+
+- Ensure images don’t have any words for accessibility reasons
 
 ## Accessibility
 
