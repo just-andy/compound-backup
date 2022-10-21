@@ -7,7 +7,7 @@ Written content is a key part of our interfaces, from marketing content through 
 
 ## Key Points
 
-- On web and native platforms we use [Ubuntu](https://fonts.google.com/specimen/Ubuntu?query=ubuntu) Bold for Headings and Legends. We use three weights of this font; bold, medium and regular.
+- On the web and native platforms, we use [Ubuntu](https://fonts.google.com/specimen/Ubuntu?query=ubuntu) for Headings and Legends at bold and medium weights. 
 
 - Body copy differs depending on the platform:
 

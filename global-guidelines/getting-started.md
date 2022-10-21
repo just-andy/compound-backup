@@ -12,27 +12,35 @@ If you have suggestions for new components or updates please follow our [compone
 
 # Overview
 
-The Phoenix Group design system is called *Compound* and its purpose is to facilitate faster and more consistent practices.
+The Phoenix Group design system is called *Compound* and its purpose is to facilitate efficient and more consistent practices.
 
 A design system comprises of a number of parts:
 
-- *Platform guidelines* - Our guidelines on how we approach and apply our design system. The information covers both design and ethos
+*Platform guidelines*
 
-- *Component library* - The building blocks of our UI are details with specific examples, usage guidelines and platform-specific differences
+Our guidelines on how we approach and apply our design system. The information covers both design and ethos.
 
-- *Supporting Documentation* - Additional information, such as [design tool best practices]() and templates, relevant to how we approach our product design and development
+*Component library* 
+
+The building blocks of our UI are details with specific examples, usage guidelines, and platform-specific differences. We interpret the brand guidelines into palettes that are accessible across our digital products.
+
+*Supporting Documentation* 
+
+Additional information, such as [design tool best practices]() and templates, relevant to how we approach our product design and development
 
 ### Principles
 
 Our main principle for our design system are:
 
-- Faster ideation and exploration in a consistent manner
+- Embrace more productive ideation and exploration in a consistent manner
 
-- Align with developed components where possible
+- Maintain and encourage consistency through alignment and reuse of components unless specific design requirements are absolutely necessary
 
 - Open collaboration and contribution to a structured system that grows with our products
 
 - Centralising our approach reduces the overhead of following best practices and allows people to work autonomously
+
+- Maintain intellectual property of design and design best practices as part of the business
 
 ## Digial Guidelines
 
@@ -44,7 +52,7 @@ These guidelines aim to be reference points for any digital product to align as 
 
 - [Standard Life Guidelines]() - Digital guidlines specific to the Standard Life Brand
 
-- Phoneix Group Guidlines _(Coming Soon)**_
+- Phoneix Group Guidelines - _(Coming Soon)**_
 
 ## Quick Links
 

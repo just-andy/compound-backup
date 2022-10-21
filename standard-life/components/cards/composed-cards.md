@@ -37,6 +37,12 @@ These should be used when the collection is related and of equal value but each 
 
 Each of colour of the card has their own specific [badge]() , however, the text, button and links styles are all shared. The colours have no specific meeting so can be used interchangeably.
 
+Important points about supporting cards:
+
+- They can only be the following colours, not shades of the palette
+
+- Only images, pictograms, [icons](), text, [buttons]() and [supporting badges]() should nested in these cards
+
   
 | Column 1 | Column 2 |  
 | --- | --- |  
@@ -75,7 +81,7 @@ The intention is that these are slightly subtler cards that featured cards. The 
 
 Building on the Card + Call To Action composition, this option also has an additional list. Each list item can navigate to a separate location, but should be related to the context of the card.
 
-There are no restrictions on the number of list items but it this card should be treated as a snapshop, so focus on the key items. Do not use this card to recreate a navigation system. 
+There are no restrictions on the number of list items but it this card should be treated as a summary, so focus on the key items. *Do not use this card to recreate a navigation system*. 
 
 ![Img](https://studio-assets.supernova.io/design-systems/16150/241544f3-ba5d-4f7f-a723-e6e559997b63.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC8yNDE1NDRmMy1iYTVkLTRmN2YtYTcyMy1lNmU1NTk5OTdiNjMuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=Xd~wI4NwX4-r0vVxn0yXds1rl6cpRHWOXI073rG8G8hxWTLgLFzUzMWyFweR7zshSx9CvDu4Jqbg0i2VY3qcQ~6C6VtWpRB7vvIPXCIZCKrze5iehnuPn47meDVdMojs81cDoqv3d9PUsuYf18NNcUy-YuCeK~DOjYKhWMJAzlvszNmEFRBKQYZzFCBX1J3l~8bmCIkwp7iNSaGD-bM4yxz3WEfJl8oGlTJGyeTvqiJIcinN1LVoxOV935BUopgsl9F0-4yNAww7zRBfhXMTbHo1bUgDat6oCsR8OxYlZU5pFoncfhKDwszZRzhkmv4ofBoFypkdOOrwLwqjbBtOpg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
 

@@ -13,7 +13,7 @@ The idea is that the library component contains a nested placeholder component w
 
 This offers the maintainability of the system components alongside the flexibility of custom layouts.
 
-The outer component should never be detached.
+*The outer component should never be detached.*
 
 ## Placeholder Components
 
@@ -41,8 +41,8 @@ This approach is widely documented and you can follow along some of the tutorial
 
 ## Quick Tips
 
-- Set up your component instances in the overal UI and then you can find out the dimensions of the placeholder instance. You can use this to inform the sizes you need for your custom component.
+- Set up your component instances in the overall UI and then you can find out the dimensions of the placeholder instance. You can use this to inform the sizes you need for your custom component.
 
-- When you swap a custom component with a placeholder instance it may not fit properly. You can adjust the auto contrains properties on your component and the outer layers to make sure things fit.
+- When you swap a custom component with a placeholder instance it may not fit properly. You can adjust the auto contraint properties on your component and the outer layers to make sure things fit.
 
 - If your custom component is too large for the placeholder area you can set the clip content to true on the wrapping layer.

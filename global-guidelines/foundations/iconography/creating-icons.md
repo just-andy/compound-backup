@@ -7,11 +7,27 @@
 
 If you require a new icon then please branch the [main icon file](https://www.figma.com/file/NJvThtFQlqYDpJ1VXqiuL3/Icons) and work on your changes. The icon guides used in the example below can be found in the [guides pages of the icon file ](https://www.figma.com/file/NJvThtFQlqYDpJ1VXqiuL3/Icons?node-id=882%3A12)as components.
 
-When your component is ready for review please follow the checklist below and the Icon Checklist.
+When your component is ready for review please follow the checklist below and the [Icon Checklist]().
 
 ## Creating Custom Icons
 
-Should you need to create a custom icon the template detailed below highlights how to use the guides to suit the shape of icon you are creating. 
+To help create a custom icon, we have a number of templates that can help depending on the orientation of the icon you are looking to create.
+
+When drawing the icon, the following points need to be followed:
+
+- 2px stroke, from centre
+
+- Spacing between elements should be 2px
+
+- Use a corner radius (1px), there should be no sharp points
+
+Check icon at 100% as that’s how it will be used.
+
+  
+![Border Radius](https://studio-assets.supernova.io/design-systems/16150/97b72f1a-54c2-4a94-bb64-8cd939f14d84.png?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC85N2I3MmYxYS01NGMyLTRhOTQtYmI2NC04Y2Q5MzlmMTRkODQucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=Bm-Q-KZGH~kc1b7ucCmOmS8b5BQZ4w1DVX2m2TX4gTelULBK4t76PXDalBgX~9yQfhO2eXr02BT27MOeLDXZMJeUzOTkqRI3Nwa7yAE06YPde1xQRD9ZjVwOryjdG1zwwn38MvHS6d3OYvJql9xWg2NJNZ3j7Q8nt1rFyQZL0wfI~WMwOEhRcJwbiCcg5lH8aw94SX456pHNgeKCqhkjh4m~UT1d8mZvIkH-4h-j3WddssWJetqz9pNd1xtICS8l99bGpKCvZ2yrCqH9otLjvRIfmnF8unDpCs-VYOkX0HFdoXfgvNYqj84hoOtPP4Lk6j8PRWA3E1T1RFpNGB8Rqg__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)  
+Border Radius, Sharp corners needs a corner radius  
+  
+
 
 ### Tall Box
 
@@ -42,3 +58,38 @@ Aside from circular icons this boundary is useful for icons that have curved out
 ![Img](https://studio-assets.supernova.io/design-systems/16150/7a074a8c-3b17-4213-8c2e-d79fe2bed219.jpg?Expires=1980201600&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9zdHVkaW8tYXNzZXRzLnN1cGVybm92YS5pby9kZXNpZ24tc3lzdGVtcy8xNjE1MC83YTA3NGE4Yy0zYjE3LTQyMTMtOGMyZS1kNzlmZTJiZWQyMTkuanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxOTgwMjAxNjAwfX19XX0_&Signature=Sa4V6ISyLTzkp7laMYZM4e0DIq7BVbhG-DM6YT6zwiS5BhaDwGnkPC0iMvOQZqjyMXnq4hHC0TAqST3tW3zcU9y7SaTUJIK7g6D62~zMW7YAayZrGCCdOnEtNyjfRnJO3iVhCseuXZbaJ-8R-BGnqG4e1PavWIFvU9us3NC5Q7WBsze1un6DntQQR7eTNPiRzuZwcOpA6Yk6KEbTWq6UeVneEgaJ-EgweBw~7b6E7GqbQjYyauy4cbYkbujVahJEZuHFVubzzjJhmAoA8GicZBnQInfe76OuYENti~NLLSHFR6qS19vOBoMtNjvDZpXvpQEpZBQXm7afcDC8cZM1fA__&Key-Pair-Id=APKAJGK34LCCAUR7N6LA)
 
 Unlike the other guides these lines are not boundaries. They can be used as guides for intersections or strokes such as chevrons or arrows.
+
+## To flatten an icon
+
+- Select all items, then right click and select outline stroke
+
+- With all elements selected select the union path
+
+- Right click > flatten
+
+- Change layer name to ‘Shape’ (it’ll probably be called union)
+
+- Make sure icon colour is BP100
+
+> Some extra info:  
+> Check spacing around the icon at this point, it should be equal and *no sub pixels*
+
+If you have sub-pixels undo to the step before outline stroke, zoom in and manually change the vector points (this is mostly going to be trial and error)
+
+## Adding to Icon Library
+
+To add into the [main icon file](https://www.figma.com/file/NJvThtFQlqYDpJ1VXqiuL3/Icons):
+
+- Copy and paste an existing icon in the list of where the new one will go.
+
+- Make sure that your icon is being added in alphabetical order
+
+- Detach this duplicate icon
+
+- Copy your icon and paste in place of the duplicated icon
+
+- Double check spacing is all intact
+
+- [Review your icon against the checklist]()
+
+- Submit your branch for review by *two members* of the team
